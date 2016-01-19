@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Life is lived between the extreme points of pain and pleasure.  A wise man once said it is all folly.
-datePublished: '2016-01-19T17:38:55.519Z'
+datePublished: '2016-01-19T17:38:55.605Z'
 dateModified: '2016-01-19T17:38:43.858Z'
 title: ''
 author: []
