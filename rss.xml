@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[WAF]]></title>
         <description><![CDATA[WAF]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/waf/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 16:45:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 17:39:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/waf/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d2b0bcd-bba3-4c5b-8658-359a6be33f20.JPG">]]></description>
-            <link>undefinedlife-is-lived-between-the-extreme-points-of-pain-and-pleasur/index.html</link>
+            <link>https://thegrid.ai/waf/life-is-lived-between-the-extreme-points-of-pain-and-pleasur/index.html</link>
             <guid isPermaLink="false">dd7046dd-9d09-4162-a0fa-32a0751efd1a</guid>
-            <pubDate>Tue, 19 Jan 2016 16:45:37 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 17:38:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
